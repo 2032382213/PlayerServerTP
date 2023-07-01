@@ -1,4 +1,4 @@
-# PlayerServer
+# PlayerServerTP
 发送玩家到由BC代理的子服
 用法：/pstp
 权限：pstp.use
